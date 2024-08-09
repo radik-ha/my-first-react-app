@@ -1,0 +1,21 @@
+#topbar {
+	text-align: center;
+	background-color: pink;
+	border-radius: 1rem;
+	color: brown;
+	display: flex;
+	justify-content: left;
+	align-items: center;
+	padding: 0.6rem;
+}
+
+#topbar img {
+	width: 10rem;
+	height: 20%;
+	border-radius: 50%;
+	border: 3px solid brown;
+	margin-right: 2rem;
+}
+
+
+
